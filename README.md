@@ -6,7 +6,7 @@ Machine-checked Lean 4 proofs for:
 
 **"Sudoku as a Microscope for Non-Extendable Commitment: Empirical Validation of Global Admissibility Filtering"**
 
-Paper DOI (concept, always resolves to latest): [TBD](https://doi.org/10.5281/zenodo.20072389)
+Paper DOI (concept, always resolves to latest): [10.5281/zenodo.20072389](https://doi.org/10.5281/zenodo.20072389)
 
 ---
 
